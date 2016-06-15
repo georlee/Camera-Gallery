@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+
+    <string name="count_down">Picture taking in 3..2..</string>
+    <string name="saved">Picture Saved</string>
+    <string name="delete">delete</string>
+
+</resources>
+
